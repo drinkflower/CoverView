@@ -17,8 +17,6 @@ function Header() {
 
       <div className="flex items-center md:gap-4 gap-2 ml-auto md:mr-4">
 
-          {t('home.shareOnTwitter')}
-        </a>
         <SwitchLang />
       </div>
     </header>
